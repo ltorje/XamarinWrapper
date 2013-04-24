@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPad 4 2013" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAppBinding/libTestAppLib.linkwith.cs">
+    <Files>
+      <File FileName="TestAppXamarin/AppDelegate.cs" Line="8" Column="7" />
+      <File FileName="TestAppBinding/libTestAppLib.linkwith.cs" Line="5" Column="1" />
+      <File FileName="TestAppBinding/ApiDefinition.cs" Line="87" Column="3" />
+      <File FileName="TestAppXamarin/Main.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
